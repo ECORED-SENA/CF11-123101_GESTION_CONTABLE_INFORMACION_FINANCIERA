@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Contratos de trabajo y liquidación de nómina',
     Description:
-      'El talento humano es el recurso más importante con el que cuenta una organización; se encarga de hacer realidad todas las metas y estrategias que la empresa propone. por lo anterior, es de vital importancia que sus prestaciones sociales sean garantizadas, como una forma de compensar la contraprestación del servicio del colaborador hacia la empresa; a partir de esto, es necesario tener conocimiento con respecto a la liquidación y pago correcto de las prestaciones sociales, las cuales se reflejan en el presente componente.',
+      'El talento humano es el recurso más importante con el que cuenta una organización; se encarga de hacer realidad todas las metas y estrategias que la empresa propone. Por lo anterior, es de vital importancia que sus prestaciones sociales sean garantizadas, como una forma de compensar la contraprestación del servicio del colaborador hacia la empresa; a partir de esto, es necesario tener conocimiento con respecto a la liquidación y pago correcto de las prestaciones sociales, las cuales se reflejan en el presente componente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -243,7 +243,7 @@ export default {
     {
       referencia:
         'Coral, L. y Gudiño, E. (2014). <i>Contabilidad universitaria. (7.a ed.)</i>. McGraw Hill - Colombia. ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=105',
+      link: '',
     },
     {
       referencia:
@@ -304,7 +304,7 @@ export default {
     {
       referencia:
         'Instituto Nacional de Contadores Públicos de Colombia. (s. f.). <i>Código Sustantivo del Trabajo</i>. ',
-      link: 'https://incp.org.co/Site/productosyservicios/legislativa/cst.htm',
+      link: '',
     },
     {
       referencia:
@@ -315,7 +315,7 @@ export default {
       referencia:
         'Ministerio del Trabajo. Republica de Colombia. (2013). <i>Formas y libertad de estipulación</i>. ',
       link:
-        'www.comunidadcontable.com http://www.comunidadcontable.com/BancoMedios/Documentos%20PDF/cpto-2556-%2013.pdf',
+        'http://www.comunidadcontable.com/BancoMedios/Documentos%20PDF/cpto-2556-%2013.pdf',
     },
     {
       referencia:

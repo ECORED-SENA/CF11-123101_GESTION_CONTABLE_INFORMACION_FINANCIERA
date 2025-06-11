@@ -129,11 +129,11 @@
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Responsabilidades (preparación y mantenimiento en el tiempo de la política "contable" preferiblemente debe ser un cargo y no una persona).
+              p.mb-0 Responsabilidades (preparación y mantenimiento en el tiempo de la política contable, preferiblemente debe ser un cargo y no una persona).
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Normas aplicables NIIF "aplicable" (normas legales locales que deben ser observadas).
+              p.mb-0 Normas aplicables, NIIF aplicable (normas legales locales que deben ser observadas).
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
@@ -153,7 +153,7 @@
     Separador
     #t_1_2
     .titulo-segundo.color-acento-contenido
-      h2 1.2. Contrato de trabajo, elementos y tipos de contrato de trabajo
+      h2 1.2 Contrato de trabajo, elementos y tipos de contrato de trabajo
     .row.mb-4.ms-0
       .col-auto.bg-c8(data-aos="fade-left")
         .row.align-items-center
