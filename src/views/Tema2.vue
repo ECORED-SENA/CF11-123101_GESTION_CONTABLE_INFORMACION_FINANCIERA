@@ -104,7 +104,7 @@
                 p.mb-4 Con el fin de profundizar sobre la Norma Internacional (NIC) 19, se sugiere explorar los siguientes recursos:
                 .row.justify-content-center
                   .col-auto
-                    a.anexo.mb-4.mb-lg-0.shadow(href="https://www2.deloitte.com/content/dam/Deloitte/cr/Documents/audit/documentos/niif-2019/NIC%2019%20-%20Beneficios%20a%20los%20Empleados.pdf" target="_blank")
+                    a.anexo.mb-4.mb-lg-0.shadow(href="https://cdn.www.gob.pe/uploads/document/file/3109224/NIC%2019.pdf?v=1652832901" target="_blank")
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
@@ -263,7 +263,7 @@
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 portes a salud 4 %.
+              p.mb-0 Aportes a salud 4 %.
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
@@ -421,7 +421,7 @@
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
       p.mb-0 #[b Figura 1.] Resumen prestaciones sociales
     figure.mb-4(data-aos="fade-left")
-      img(src='@/assets/curso/tema2/img17.svg', alt='', style='width: 650px').m-auto
+      img(src='@/assets/curso/tema2/img17.svg', alt='El esquema detalla las prestaciones sociales o beneficios para empleados en Colombia, incluyendo cesantías, intereses sobre cesantías, prima de servicios y vacaciones. Cada una tiene una provisión mensual y una fórmula de pago. Por ejemplo, las cesantías se provisionan al 8.33% del devengado mensual y se pagan según la fórmula (Salario Base * Días Trabajados)/360.', style='width: 650px').m-auto
     p.mb-4(data-aos="fade-right") En Colombia, los ingresos laborales o por salarios están sometidos a retención en la fuente a título de renta, con una tarifa progresiva según el monto del salario sujeto a retención en la fuente. (Gerencie, 2020b).
     .row.bg-c17.mb-5
       .col-12
@@ -457,21 +457,20 @@
                 .col.ps-0
                   h3.mb-0 Tarifa de retención en la fuente por salarios
           p.mb-4(data-aos="fade-right") El artículo 383 del Estatuto Tributario, modificado por la Ley 2010 de 2019, contiene las tarifas que se deben aplicar por concepto de retención en la fuente por ingresos laborales. Ver Tabla 4.
-          .row.justify-content-center
-            .col-lg-8
+          .row
+            .col-12
               .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
                 p.mb-0 #[b Tabla 4.] Tarifas de retención en la fuente por salarios
               .tabla-a.color-acento-botones(data-aos="fade-left")
                 table
                   thead
                     tr
-                      th Rangos en UVT
-                      th Tarifa marginal
-                      th Retención en la fuente
+                      th(colspan="2", width="30%") Rangos en UVT
+                      th(rowspan="2", width="20%") Tarifa marginal
+                      th(rowspan="2") Retención en la fuente
                     tr
                       th Desde
                       th Hasta
-                      th 
                   tbody.bg-white
                     tr
                       td 0
