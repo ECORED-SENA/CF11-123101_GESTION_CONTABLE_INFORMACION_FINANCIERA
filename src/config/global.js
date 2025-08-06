@@ -237,8 +237,7 @@ export default {
     {
       referencia:
         'Comité de Normas Internacionales de Contabilidad. (1998). <i>Beneficios a los empleados (NIC 19)</i>. ',
-      link:
-        'https://www2.deloitte.com/content/dam/Deloitte/cr/Documents/audit/documentos/niif-2019/NIC%2019%20-%20Beneficios%20a%20los%20Empleados.pdf',
+      link: '',
     },
     {
       referencia:
